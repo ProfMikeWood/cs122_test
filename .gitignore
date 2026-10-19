@@ -9,6 +9,9 @@ __pycache__/
 # annoying mac file
 .DS_Store
 
+# dont push my data
+data/
+
 # Distribution / packaging
 .Python
 build/
